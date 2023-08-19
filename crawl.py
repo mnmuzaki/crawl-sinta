@@ -2,13 +2,14 @@ import requests
 from bs4 import BeautifulSoup
 count= 0
 
-#substring untuk max page
+#get max page
 
 
-#crawl data
+#crawl data https://sinta.kemdikbud.go.id
 page = 1
 draft = "https://sinta.kemdikbud.go.id/affiliations/profile/2099?page="+str(page)+"&view=scopus"
 url = draft
+
 #membuat request
 r = requests.get(url)
 
