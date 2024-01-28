@@ -6,10 +6,10 @@ from bs4 import BeautifulSoup
 # Mengkonversi curl pada tautan https://curlconverter.com/
 cookies = {
     '_ga_DDV4DPGV0H': 'GS1.1.1698995664.2.0.1698995669.0.0.0',
-    '_ga_2BMHYQ15QC': 'GS1.1.1704709608.5.1.1704710422.0.0.0',
     '_ga_6NXX5DTK0E': 'GS1.1.1705388744.6.1.1705388914.0.0.0',
     '_ga': 'GA1.1.496501778.1692680010',
-    'ci_session': '9qfp86ahtotb97c3e6ip7etq3pakb1oe',
+    '_ga_2BMHYQ15QC': 'GS1.1.1706164443.7.0.1706164443.0.0.0',
+    'ci_session': 'nq16m9nivcf487t28cprsvvcbt0hikce',
 }
 
 headers = {
@@ -17,7 +17,7 @@ headers = {
     'Accept-Language': 'en-US,en;q=0.9',
     'Cache-Control': 'max-age=0',
     'Connection': 'keep-alive',
-    # 'Cookie': '_ga_DDV4DPGV0H=GS1.1.1698995664.2.0.1698995669.0.0.0; _ga_2BMHYQ15QC=GS1.1.1704709608.5.1.1704710422.0.0.0; _ga_6NXX5DTK0E=GS1.1.1705388744.6.1.1705388914.0.0.0; _ga=GA1.1.496501778.1692680010; ci_session=9qfp86ahtotb97c3e6ip7etq3pakb1oe',
+    # 'Cookie': '_ga_DDV4DPGV0H=GS1.1.1698995664.2.0.1698995669.0.0.0; _ga_6NXX5DTK0E=GS1.1.1705388744.6.1.1705388914.0.0.0; _ga=GA1.1.496501778.1692680010; _ga_2BMHYQ15QC=GS1.1.1706164443.7.0.1706164443.0.0.0; ci_session=nq16m9nivcf487t28cprsvvcbt0hikce',
     'Referer': 'https://sinta.kemdikbud.go.id/logins',
     'Sec-Fetch-Dest': 'document',
     'Sec-Fetch-Mode': 'navigate',
@@ -29,12 +29,8 @@ headers = {
     'sec-ch-ua-mobile': '?0',
     'sec-ch-ua-platform': '"Windows"',
 }
-
-#response = requests.get('https://sinta.kemdikbud.go.id/', cookies=cookies, headers=headers)
-
-#response = requests.get('https://sinta.kemdikbud.go.id/', cookies=cookies, headers=headers)
 ################################ AKHIR MEMASUKKAN SESIONS ##################################
-#get max page
+#---------Data nama Prodi(list_prodi) dan kode Prodi(list_kode)
 list_prodi = ['PGSD',
               'PENJAS',
               'PGPAUD',
@@ -60,7 +56,7 @@ list_prodi = ['PGSD',
               'Pendidikan Ekonomi',
               'Kebidanan'
               ]
-list_link = ['21781CCB-9B5B-4953-9D14-FEA1A4788FA2',
+list_kode = ['21781CCB-9B5B-4953-9D14-FEA1A4788FA2',
              'AEF1ADDD-AAC6-4FB7-A5B3-26032FC01688',
              '3BB2CB06-7698-4F0D-99E6-BBF5807217A8',
              '18C9E582-04C4-4051-B7E1-D31943F2E633',
@@ -85,17 +81,11 @@ list_link = ['21781CCB-9B5B-4953-9D14-FEA1A4788FA2',
              'F67DBD4F-929D-4C92-AFFC-4F409545C3B9',
              '3B445DBE-9145-48AB-9C69-F82A608920DF'
              ]
-# OPEN FILE #
+# membuka file scopus-prodi.txt #
 file_hasil = open("hasil/scopus-prodi.txt", "w")
-# AKHIR OPEN FILE #
 
-#crawl data https://sinta.kemdikbud.go.id
-#page = 0
-
-#print(len(list_prodi))
-#print(len(list_link))
 list_title = []
-
+#---------Perulangan untuk seluruh Prodi
 for z in range(0,len(list_prodi)):
     list_title.clear()
     stop = 11
@@ -105,7 +95,7 @@ for z in range(0,len(list_prodi)):
         if page > stop :
                 break
         #page += 1
-        draft = "https://sinta.kemdikbud.go.id/departments/profile/2099/F5D8DB12-BB00-4849-A75E-126843A7DB35/"+str(list_link[z])+"?page="+str(page)+"&view=scopus"
+        draft = "https://sinta.kemdikbud.go.id/departments/profile/2099/F5D8DB12-BB00-4849-A75E-126843A7DB35/"+str(list_kode[z])+"?page="+str(page)+"&view=scopus"
     
         url = draft
 
@@ -122,22 +112,18 @@ for z in range(0,len(list_prodi)):
         pub = soup.findAll('a',attrs={'class':'ar-pub'})
         year = soup.findAll('a',attrs={'class':'ar-year'})
         cited = soup.findAll('a',attrs={'class':'ar-cited'})
-
-        paging = soup.findAll('small')
-        #print(paging)
-        #print(soup.get_text("1 of 12"))
-        #list_title = [title[0].text.strip()]
-        ######################### Mencari panjang page
-        #print(paging[1].text.strip())
-        text = str(paging[1].text.strip())
-        cocok = re.search(r' of\s+(.*?)\s+| Total Records', text)
-        print(cocok.group(1))
-        if cocok != None :
-            s = cocok.group(1)
-            t = int(s)
-        else :
-            t = 0;
-        print(t)
+        #print(title[1].text.strip())
+        if title != None : 
+            paging = soup.findAll('small')
+            text = str(paging[1].text.strip())
+            cocok = re.search(r' of\s+(.*?)\s+| Total Records', text)
+            print(cocok.group(1))
+            if cocok != None :
+                s = cocok.group(1)
+                t = int(s)
+            else :
+                t = 0;
+            print(t)
         print(list_prodi[z])
         
         for x in range(0,len(title)):
@@ -146,12 +132,9 @@ for z in range(0,len(list_prodi)):
                  break
             else:
                 list_title.append(title[x].text.strip())
-                #if title[x].text.strip() not in list_title:
-                #if list_title[count-1] == list_title[0] and count > 1:
                 print("{0}. {1}. {2}. {3}. {4}. {5} ".format(count, title[x].text.strip() , quartile[x].text.strip(), pub[x].text.strip(), year[x].text.strip(), cited[x].text.strip()))
                 teks = "{0}; {1}; {2}; {3}; {4}; {5} \n".format(count, title[x].text.strip() , quartile[x].text.strip(), pub[x].text.strip(), year[x].text.strip(), cited[x].text.strip())
                 file_hasil.write(teks) 
-                #stop = len(title)
         stop = t
-  #  print(list_title)
+
     
