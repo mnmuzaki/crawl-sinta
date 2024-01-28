@@ -1,8 +1,8 @@
 PGSD
 =============================
 1; DEVELOPING CRITICAL THINKING ACHIEVEMENT IN MACROECONOMICS COURSE TROUGH ADI LEARNING BASED; Q4 Journal; Revista de Gestao Social e Ambiental; 2023; 0 cited 
-2; Textbooks based on local wisdom to improve reading and writing skills of elementary school students; Q3 Journal; International Journal of Evaluation and Research in Education; 2021; 2 cited 
-3; Prototype of mathematics club module in a co-curricular activity for elementary students; Q4 Journal; Journal of Physics: Conference Series; 2021; 0 cited 
+2; Prototype of mathematics club module in a co-curricular activity for elementary students; Q4 Journal; Journal of Physics: Conference Series; 2021; 0 cited 
+3; Textbooks based on local wisdom to improve reading and writing skills of elementary school students; Q3 Journal; International Journal of Evaluation and Research in Education; 2021; 2 cited 
 4; Improving Student Engagement in Online Learning: How the Online Learning Readiness Scale and Self-Assessment Matter?; no-Q Journal; Proceedings - 2020 6th International Conference on Education and Technology, ICET 2020; 2020; 2 cited 
 5; Potential and barrier analysis, implementation of education based on local wisdom in SDN burengan 2 kediri, Indonesia; no-Q Journal; Proceedings of the International Conference on Industrial Engineering and Operations Management; 2020; 0 cited 
 6; The influence of flipped model on learning achievement: An analyze of students school engagement; no-Q Journal; Proceedings of the International Conference on Industrial Engineering and Operations Management; 2020; 0 cited 
@@ -32,9 +32,9 @@ PPG
 9; Design and velocity distribution of runner blade of kaplan turbine using CFD (computer fluid dynamic) for small hydroelectric power plant; Q4 Journal; IOP Conference Series: Materials Science and Engineering; 2017; 2 cited 
 MANAJEMEN
 =============================
-1; THE COMPETITIVE STRATEGY OF THE VILLAGE UNIT COOPERATIVE: CAPABILITY AND INNOVATION PERFORMANCE TOWARDS COMPETITIVE ADVANTAGE; Q4 Journal; Corporate and Business Strategy Review; 2023; 0 cited 
-2; Village Unit Cooperatives on Dynamic Capability and Creative Capability Adaptation to Innovation Performance: The Role of Competitive Advantage; no-Q Journal; Qubahan Academic Journal; 2023; 0 cited 
-3; DEVELOPING CRITICAL THINKING ACHIEVEMENT IN MACROECONOMICS COURSE TROUGH ADI LEARNING BASED; Q4 Journal; Revista de Gestao Social e Ambiental; 2023; 0 cited 
+1; DEVELOPING CRITICAL THINKING ACHIEVEMENT IN MACROECONOMICS COURSE TROUGH ADI LEARNING BASED; Q4 Journal; Revista de Gestao Social e Ambiental; 2023; 0 cited 
+2; THE COMPETITIVE STRATEGY OF THE VILLAGE UNIT COOPERATIVE: CAPABILITY AND INNOVATION PERFORMANCE TOWARDS COMPETITIVE ADVANTAGE; Q4 Journal; Corporate and Business Strategy Review; 2023; 0 cited 
+3; Village Unit Cooperatives on Dynamic Capability and Creative Capability Adaptation to Innovation Performance: The Role of Competitive Advantage; no-Q Journal; Qubahan Academic Journal; 2023; 0 cited 
 4; Entrepreneurial parameters and performance of MSMEs in East Java province of Indonesia; Q3 Journal; International Journal of Business Innovation and Research; 2020; 15 cited 
 5; The effect of an android-based application on T-Mobile learning model to improve students' listening competence; Q4 Journal; Journal of Physics: Conference Series; 2019; 6 cited 
 Pendidikan Matematika
@@ -51,18 +51,19 @@ Pendidikan Matematika
 10; Numerical Simulation of Flood Routing through Channels with Area Variation using Staggered Grid Method; Q3 Journal; Science and Technology Indonesia; 2021; 0 cited 
 11; Javanese traditional games as a teaching and learning media to socialize and introduce mathematics since early age; Q4 Journal; Journal of Physics: Conference Series; 2020; 2 cited 
 12; The role of science project based peer interaction on improving collaborative skills and physical problem solving: A mini review; Q4 Journal; Journal of Physics: Conference Series; 2020; 3 cited 
-13; Exploring mathematical representations in solving ill-structured problems: The case of quadratic function; Q1 Journal; Journal on Mathematics Education; 2019; 10 cited 
-14; Changing in mathematical identity of elementary school students through group learning activities; Q2 Journal; International Electronic Journal of Elementary Education; 2019; 9 cited 
-15; Problem based learning in mechanical engineering to train student's creativity; Q4 Journal; Journal of Physics: Conference Series; 2019; 3 cited 
-16; Analysis of Three-Component Seismograms to Obtain the Result of Moment Tensor of Earthquake in Manokwari; Q4 Journal; Journal of Physics: Conference Series; 2019; 0 cited 
-17; Enhancing mathematical connection ability of mathematics education student through inquiry-based learning; Q4 Journal; Journal of Physics: Conference Series; 2019; 0 cited 
+13; Enhancing mathematical connection ability of mathematics education student through inquiry-based learning; Q4 Journal; Journal of Physics: Conference Series; 2019; 0 cited 
+14; Exploring mathematical representations in solving ill-structured problems: The case of quadratic function; Q1 Journal; Journal on Mathematics Education; 2019; 10 cited 
+15; Changing in mathematical identity of elementary school students through group learning activities; Q2 Journal; International Electronic Journal of Elementary Education; 2019; 9 cited 
+16; Problem based learning in mechanical engineering to train student's creativity; Q4 Journal; Journal of Physics: Conference Series; 2019; 3 cited 
+17; Analysis of Three-Component Seismograms to Obtain the Result of Moment Tensor of Earthquake in Manokwari; Q4 Journal; Journal of Physics: Conference Series; 2019; 0 cited 
 18; Problem based learning: The effect of real time data on the website to student independence; Q4 Journal; Journal of Physics: Conference Series; 2018; 1 cited 
 19; Inquiry based learning: A student centered learning to develop mathematical habits of mind; Q4 Journal; Journal of Physics: Conference Series; 2018; 7 cited 
 20; Effect of Physics Problem Solving on Structures Schemes and Knowledge Associations; Q4 Journal; Journal of Physics: Conference Series; 2017; 1 cited 
+21; Developing Teaching Material Software Assisted for Numerical Methods; Q4 Journal; Journal of Physics: Conference Series; 2017; 1 cited 
 Bimbingan Dan Konseling
 =============================
-1; The role of democratic parenting, school climate, and internal locus of control as predictors of academic optimism; Q2 Journal; International Journal of Evaluation and Research in Education; 2022; 1 cited 
-2; Learning Motivation, Democratic Parenting, and Peer Relations Predict Academic Self-Concept; Q2 Journal; European Journal of Educational Research; 2022; 0 cited 
+1; Learning Motivation, Democratic Parenting, and Peer Relations Predict Academic Self-Concept; Q2 Journal; European Journal of Educational Research; 2022; 0 cited 
+2; The role of democratic parenting, school climate, and internal locus of control as predictors of academic optimism; Q2 Journal; International Journal of Evaluation and Research in Education; 2022; 1 cited 
 3; Development of academic optimism model in learning for junior high school students; Q2 Journal; European Journal of Educational Research; 2021; 0 cited 
 4; Student perceptions of online learning during the covid-19 pandemic in indonesia: A study of phenomenology; Q2 Journal; European Journal of Educational Research; 2021; 17 cited 
 5; Representation, representational transformation and spatial reasoning hierarchical in spatial thinking; Q4 Journal; Journal of Physics: Conference Series; 2019; 1 cited 
@@ -77,23 +78,27 @@ TI
 7; Database of Indonesian Sign Systems; no-Q Journal; 2018 International Conference on Smart Green Technology in Electrical and Information Systems: Smart; 2018; 2 cited 
 8; Automatic image annotation using CMRM with scene information; Q3 Journal; Telkomnika (Telecommunication Computing Electronics and Control); 2017; 0 cited 
 9; Classification of category selection title undergraduate thesis using k-nearest neighbor method; Q4 Journal; Indonesian Journal of Electrical Engineering and Computer Science; 2017; 2 cited 
-10; Prediction of college student achievement based on educational background using decision tree methods; Q4 Journal; Indonesian Journal of Electrical Engineering and Computer Science; 2016; 3 cited 
+10; Integrating data selection and extreme learning machine to predict protein-ligand binding site; no-Q Journal; Contemporary Engineering Sciences; 2016; 3 cited 
+11; Prediction of college student achievement based on educational background using decision tree methods; Q4 Journal; Indonesian Journal of Electrical Engineering and Computer Science; 2016; 3 cited 
+12; Learning vector quantization image for identification adenium; Q4 Journal; Indonesian Journal of Electrical Engineering and Computer Science; 2016; 2 cited 
+13; Integrating Data Selection and Extreme Learning Machine for Imbalanced Data; Q3 Journal; Procedia Computer Science; 2015; 15 cited 
 SI
 =============================
 1; Hidden Treasures of Kediri's Medicinal Plants: A Collaborative Effort to Map and Validate Authentic Information Using Innovative QR Code Security and Cryptography; Q4 Journal; IOP Conference Series: Earth and Environmental Science; 2023; 0 cited 
-2; Improvement security in e-business systems using hybrid algorithm; Q2 Journal; Telkomnika (Telecommunication Computing Electronics and Control); 2021; 6 cited 
-3; Recommendations for Choosing a Place to Stay in the Greater Malang Area Using SAW and TOPSIS; no-Q Journal; ICOIACT 2021 - 4th International Conference on Information and Communications Technology: The Role o; 2021; 1 cited 
-4; Evaluation Framework for Decision Making Based On Sentiment Analysis in Social Media; no-Q Journal; 2021 International Conference on Advanced Mechatronics, Intelligent Manufacture and Industrial Autom; 2021; 1 cited 
-5; TOPSIS in Decision-Making Framework Based on Twitter Sentiment Analysis; no-Q Journal; ICOIACT 2021 - 4th International Conference on Information and Communications Technology: The Role o; 2021; 1 cited 
-6; The analysis of student epistemic games reviewed from physics understanding; Q4 Journal; AIP Conference Proceedings; 2020; 2 cited 
+2; Evaluation of Feature Selection Using Wrapper for Numeric Dataset with Random Forest Algorithm; no-Q Journal; Proceedings - 2021 International Seminar on Application for Technology of Information and Communicat; 2021; 9 cited 
+3; TOPSIS in Decision-Making Framework Based on Twitter Sentiment Analysis; no-Q Journal; ICOIACT 2021 - 4th International Conference on Information and Communications Technology: The Role o; 2021; 1 cited 
+4; Improvement security in e-business systems using hybrid algorithm; Q2 Journal; Telkomnika (Telecommunication Computing Electronics and Control); 2021; 6 cited 
+5; Recommendations for Choosing a Place to Stay in the Greater Malang Area Using SAW and TOPSIS; no-Q Journal; ICOIACT 2021 - 4th International Conference on Information and Communications Technology: The Role o; 2021; 1 cited 
+6; Evaluation Framework for Decision Making Based On Sentiment Analysis in Social Media; no-Q Journal; 2021 International Conference on Advanced Mechatronics, Intelligent Manufacture and Industrial Autom; 2021; 1 cited 
 7; Decision Making Framework Based on Sentiment Analysis in Twitter Using SAW and Machine Learning Approach; no-Q Journal; 2020 3rd International Conference on Information and Communications Technology, ICOIACT 2020; 2020; 5 cited 
-8; Clustering K means for criteria weighting with improvement result of alternative decisions using SAW and TOPSIS; no-Q Journal; 2019 4th International Conference on Information Technology, Information Systems and Electrical Engi; 2019; 2 cited 
-9; Decision support systems to determining programme for students using DBSCAN and naive bayes: Case study: Engineering faculty of universitas nusantara PGRI kediri; no-Q Journal; Proceeding - 2019 International Conference of Artificial Intelligence and Information Technology, IC; 2019; 2 cited 
-10; Transactional database design information system web-based tracer study integrated telegram bot; Q4 Journal; Journal of Physics: Conference Series; 2019; 6 cited 
-11; Auto purchase order system between retailer and distributor; Q3 Journal; Telkomnika (Telecommunication Computing Electronics and Control); 2019; 1 cited 
-12; Decision support system to deciding thesis topic; no-Q Journal; Proceedings - 2017 International Seminar on Application for Technology of Information and Communicat; 2017; 2 cited 
-13; Classification method of multi-class on C4.5 algorithm for fish diseases; no-Q Journal; Proceeding - 2016 2nd International Conference on Science in Information Technology, ICSITech 2016:; 2017; 6 cited 
-14; K-Means clustering with Decision Support System using SAW: Determining thesis topic; no-Q Journal; Proceedings - 6th IEEE International Conference on Control System, Computing and Engineering, ICCSCE; 2017; 11 cited 
+8; The analysis of student epistemic games reviewed from physics understanding; Q4 Journal; AIP Conference Proceedings; 2020; 2 cited 
+9; Auto purchase order system between retailer and distributor; Q3 Journal; Telkomnika (Telecommunication Computing Electronics and Control); 2019; 1 cited 
+10; Clustering K means for criteria weighting with improvement result of alternative decisions using SAW and TOPSIS; no-Q Journal; 2019 4th International Conference on Information Technology, Information Systems and Electrical Engi; 2019; 2 cited 
+11; Decision support systems to determining programme for students using DBSCAN and naive bayes: Case study: Engineering faculty of universitas nusantara PGRI kediri; no-Q Journal; Proceeding - 2019 International Conference of Artificial Intelligence and Information Technology, IC; 2019; 2 cited 
+12; Transactional database design information system web-based tracer study integrated telegram bot; Q4 Journal; Journal of Physics: Conference Series; 2019; 6 cited 
+13; Decision support system to deciding thesis topic; no-Q Journal; Proceedings - 2017 International Seminar on Application for Technology of Information and Communicat; 2017; 2 cited 
+14; Classification method of multi-class on C4.5 algorithm for fish diseases; no-Q Journal; Proceeding - 2016 2nd International Conference on Science in Information Technology, ICSITech 2016:; 2017; 6 cited 
+15; K-Means clustering with Decision Support System using SAW: Determining thesis topic; no-Q Journal; Proceedings - 6th IEEE International Conference on Control System, Computing and Engineering, ICCSCE; 2017; 11 cited 
 MKO
 =============================
 1; DEVELOPMENT OF TENDA IOT174 VOLLEYBALL LEARNING TO IMPROVE COGNITIVE ABILITY, FIGHTING POWER AND SPORTIVITY ON COLLEGE STUDENTS; Q2 Journal; Physical Education Theory and Methodology; 2023; 1 cited 
@@ -108,8 +113,8 @@ AKUNTANSI
 1; Mediating role of inter-firm linkages and innovation capability towards the sustainability of SMEs in Indonesia; Q4 Journal; International Journal of Technology, Policy and Management; 2023; 0 cited 
 2; MODELLING THE NUMBER OF HIV AND AIDS CASES IN EAST JAVA USING BIRESPONSE MULTIPREDICTOR NEGATIVE BINOMIAL REGRESSION BASED ON LOCAL LINEAR ESTIMATOR; Q3 Journal; Communications in Mathematical Biology and Neuroscience; 2021; 5 cited 
 3; Modeling the number of confirmed and suspected cases of covid-19 in east Java using bi-response negative binomial regression based on local linear estimator; Q4 Journal; AIP Conference Proceedings; 2021; 1 cited 
-4; Estimating model of the number of HIV and AIDS cases in East Java using Bi-response negative binomial regression based on local linear estimator; Q4 Journal; AIP Conference Proceedings; 2020; 2 cited 
-5; Modelling of hiv and aids cases in indonesia using bi-response negative binomial regression approach based on local linear estimator; Q4 Journal; Annals of Biology; 2020; 6 cited 
+4; Modelling of hiv and aids cases in indonesia using bi-response negative binomial regression approach based on local linear estimator; Q4 Journal; Annals of Biology; 2020; 6 cited 
+5; Estimating model of the number of HIV and AIDS cases in East Java using Bi-response negative binomial regression based on local linear estimator; Q4 Journal; AIP Conference Proceedings; 2020; 2 cited 
 6; Modeling of HIV and AIDS in Indonesia Using Bivariate Negative Binomial Regression; Q3 Journal; IOP Conference Series: Materials Science and Engineering; 2019; 5 cited 
 BIOLOGI
 =============================
@@ -118,66 +123,67 @@ BIOLOGI
 3; The Correlation between Metacognitive Skills and Critical Thinking Skills of Class XI MIPA Students on Biological Learning through ASICC Learning Models; Q4 Journal; AIP Conference Proceedings; 2023; 0 cited 
 4; Development of Electronic Module Based on ASICC Learning Models on Bacterial Materials for Class X MIPA to Improve Students Scientific Argumentation Skills; Q4 Journal; AIP Conference Proceedings; 2023; 0 cited 
 5; Hidden Treasures of Kediri's Medicinal Plants: A Collaborative Effort to Map and Validate Authentic Information Using Innovative QR Code Security and Cryptography; Q4 Journal; IOP Conference Series: Earth and Environmental Science; 2023; 0 cited 
-6; Development of Electronic Module Based on ASICC Strategy on Virus Materials for Class X to Empower Critical Thinking; Q4 Journal; AIP Conference Proceedings; 2022; 0 cited 
-7; Revealing the Effect of ASICC Learning Model on Scientific Argumentation Skills of Low Academic Students; Q4 Journal; AIP Conference Proceedings; 2022; 0 cited 
-8; The Development of Students' Worksheets Using Problem-Based Learning to Improve Creativity and Time Management Skills of Students; Q4 Journal; AIP Conference Proceedings; 2022; 0 cited 
-9; Monitoring lava dome extrusion of Merapi Volcano during 2018-2019, using low-cost UAV application; Q4 Journal; IOP Conference Series: Earth and Environmental Science; 2022; 0 cited 
-10; Sequences of Trypsin Inhibitor Gene on Jatropha curcas L; Q4 Journal; IOP Conference Series: Earth and Environmental Science; 2021; 0 cited 
+6; The Development of Students' Worksheets Using Problem-Based Learning to Improve Creativity and Time Management Skills of Students; Q4 Journal; AIP Conference Proceedings; 2022; 0 cited 
+7; Monitoring lava dome extrusion of Merapi Volcano during 2018-2019, using low-cost UAV application; Q4 Journal; IOP Conference Series: Earth and Environmental Science; 2022; 0 cited 
+8; Development of Electronic Module Based on ASICC Strategy on Virus Materials for Class X to Empower Critical Thinking; Q4 Journal; AIP Conference Proceedings; 2022; 0 cited 
+9; Revealing the Effect of ASICC Learning Model on Scientific Argumentation Skills of Low Academic Students; Q4 Journal; AIP Conference Proceedings; 2022; 0 cited 
+10; The development of students' worksheets using project based learning (PjBL) in improving higher order thinking skills (HOTs) and time management skills of students; Q4 Journal; Journal of Physics: Conference Series; 2021; 8 cited 
+11; Sequences of Trypsin Inhibitor Gene on Jatropha curcas L; Q4 Journal; IOP Conference Series: Earth and Environmental Science; 2021; 0 cited 
 PBSI
 =============================
 1; Realizing Complaining Speech Acts of Covid-19 Survivors with a Gender and Education Perspective; Q1 Journal; International Journal of Society, Culture and Language; 2023; 4 cited 
 TEKNIK MESIN
 =============================
 1; Using three-tier test to diagnose students' level of understanding; Q4 Journal; Journal of Physics: Conference Series; 2021; 1 cited 
-2; Analyzing Students' Understanding of Work-Energy Concept; Q4 Journal; Journal of Physics: Conference Series; 2020; 0 cited 
-3; The role of science project based peer interaction on improving collaborative skills and physical problem solving: A mini review; Q4 Journal; Journal of Physics: Conference Series; 2020; 3 cited 
-4; Exhaust temperature and peltier element optimization of thermoelectric generator output; Q4 Journal; IOP Conference Series: Materials Science and Engineering; 2020; 0 cited 
-5; Enhancing mathematical connection ability of mathematics education student through inquiry-based learning; Q4 Journal; Journal of Physics: Conference Series; 2019; 0 cited 
-6; Problem based learning in mechanical engineering to train student's creativity; Q4 Journal; Journal of Physics: Conference Series; 2019; 3 cited 
-7; Analysis of Three-Component Seismograms to Obtain the Result of Moment Tensor of Earthquake in Manokwari; Q4 Journal; Journal of Physics: Conference Series; 2019; 0 cited 
-8; Optimization of Roundness, MRR and Surface Roughness on Turning Process using Taguchi-GRA; Q4 Journal; Journal of Physics: Conference Series; 2019; 2 cited 
-9; Development of Teaching Modules Based on Problem Solving; Q4 Journal; Journal of Physics: Conference Series; 2019; 0 cited 
-10; Students' mental model in electric current; Q4 Journal; Journal of Physics: Conference Series; 2018; 3 cited 
+2; Exhaust temperature and peltier element optimization of thermoelectric generator output; Q4 Journal; IOP Conference Series: Materials Science and Engineering; 2020; 0 cited 
+3; Analyzing Students' Understanding of Work-Energy Concept; Q4 Journal; Journal of Physics: Conference Series; 2020; 0 cited 
+4; The role of science project based peer interaction on improving collaborative skills and physical problem solving: A mini review; Q4 Journal; Journal of Physics: Conference Series; 2020; 3 cited 
+5; Development of Teaching Modules Based on Problem Solving; Q4 Journal; Journal of Physics: Conference Series; 2019; 0 cited 
+6; Enhancing mathematical connection ability of mathematics education student through inquiry-based learning; Q4 Journal; Journal of Physics: Conference Series; 2019; 0 cited 
+7; Problem based learning in mechanical engineering to train student's creativity; Q4 Journal; Journal of Physics: Conference Series; 2019; 3 cited 
+8; Analysis of Three-Component Seismograms to Obtain the Result of Moment Tensor of Earthquake in Manokwari; Q4 Journal; Journal of Physics: Conference Series; 2019; 0 cited 
+9; Optimization of Roundness, MRR and Surface Roughness on Turning Process using Taguchi-GRA; Q4 Journal; Journal of Physics: Conference Series; 2019; 2 cited 
+10; Problem based learning: The effect of real time data on the website to student independence; Q4 Journal; Journal of Physics: Conference Series; 2018; 1 cited 
 11; Inquiry based learning: A student centered learning to develop mathematical habits of mind; Q4 Journal; Journal of Physics: Conference Series; 2018; 7 cited 
-12; Problem based learning: The effect of real time data on the website to student independence; Q4 Journal; Journal of Physics: Conference Series; 2018; 1 cited 
-13; Effect of Physics Problem Solving on Structures Schemes and Knowledge Associations; Q4 Journal; Journal of Physics: Conference Series; 2017; 1 cited 
 Pendidikan Ekonomi
 =============================
-1; Analyzing Information System Quality and Financial Information Quality: An Evidence of Local Government Organizations in Indonesia; no-Q Journal; Qubahan Academic Journal; 2023; 0 cited 
-2; Hidden Treasures of Kediri's Medicinal Plants: A Collaborative Effort to Map and Validate Authentic Information Using Innovative QR Code Security and Cryptography; Q4 Journal; IOP Conference Series: Earth and Environmental Science; 2023; 0 cited 
-3; The Growth Potential for Accounting Startups is Vast; Q2 Journal; Migration Letters; 2023; 0 cited 
-4; DEVELOPING CRITICAL THINKING ACHIEVEMENT IN MACROECONOMICS COURSE TROUGH ADI LEARNING BASED; Q4 Journal; Revista de Gestao Social e Ambiental; 2023; 0 cited 
+1; The Growth Potential for Accounting Startups is Vast; Q2 Journal; Migration Letters; 2023; 0 cited 
+2; DEVELOPING CRITICAL THINKING ACHIEVEMENT IN MACROECONOMICS COURSE TROUGH ADI LEARNING BASED; Q4 Journal; Revista de Gestao Social e Ambiental; 2023; 0 cited 
+3; Analyzing Information System Quality and Financial Information Quality: An Evidence of Local Government Organizations in Indonesia; no-Q Journal; Qubahan Academic Journal; 2023; 0 cited 
+4; Hidden Treasures of Kediri's Medicinal Plants: A Collaborative Effort to Map and Validate Authentic Information Using Innovative QR Code Security and Cryptography; Q4 Journal; IOP Conference Series: Earth and Environmental Science; 2023; 0 cited 
 5; E-commerce in Southeast Asia: A futuristic perspective; no-Q Journal; The Future of E-Commerce; 2022; 0 cited 
 6; creating social entrepreneurship value for economic development; Q1 Journal; Problems and Perspectives in Management; 2021; 2 cited 
 7; A simple way to reduce the risk of being exposed to COVID-19 using instruments for children; Q3 Journal; Open Access Macedonian Journal of Medical Sciences; 2021; 1 cited 
 8; Entrepreneurial parameters and performance of MSMEs in East Java province of Indonesia; Q3 Journal; International Journal of Business Innovation and Research; 2020; 15 cited 
 Peternakan
 =============================
-1; Farming in Kediri Indonesia: Analysis of cluster k-means; Q4 Journal; IOP Conference Series: Earth and Environmental Science; 2022; 0 cited 
-2; Hermits with Duden, tipex and an Olivetti Studio 45; Q1 Journal; Revista Tradumatica; 2022; 0 cited 
-3; Translating is not (only) problem solving; Q1 Journal; Journal of Specialised Translation; 2022; 3 cited 
-4; A task segment framework to study keylogged translation processes; Q1 Journal; Translation and Interpreting; 2022; 3 cited 
-5; Translation process research; no-Q Journal; The Routledge Handbook of Translation and Methodology; 2022; 1 cited 
-6; Finding a way into an interpreter’s heart: methodological considerations on heart-rate variability building on an exploratory study; Q3 Journal; Interpreters Newsletter; 2022; 0 cited 
-7; Spillover Effects in Task-Segment Switching: A Study of Translation Subtasks as Behavioral Categories Within the Task Segment Framework; Q2 Journal; New Frontiers in Translation Studies; 2021; 1 cited 
-8; Investigating usability in postediting neural machine translation: Evidence from translation trainees' self-perception and performance; Q1 Journal; Across Languages and Cultures; 2021; 8 cited 
+1; Diluent and Storage Time Effect on Sperm Abnormality and MDA Level in Muscovy Duck Semen at 27oC; no-Q Journal; Jurnal Medik Veteriner; 2023; 0 cited 
+2; The Breeding of Free-range Chickens and Purebred Chickens with Artificial Insemination Technology on Fertility and Hatchability Using Manual Incubator; Q4 Journal; IOP Conference Series: Earth and Environmental Science; 2023; 0 cited 
+3; A task segment framework to study keylogged translation processes; Q1 Journal; Translation and Interpreting; 2022; 3 cited 
+4; Translation process research; no-Q Journal; The Routledge Handbook of Translation and Methodology; 2022; 1 cited 
+5; Finding a way into an interpreter’s heart: methodological considerations on heart-rate variability building on an exploratory study; Q3 Journal; Interpreters Newsletter; 2022; 0 cited 
+6; Farming in Kediri Indonesia: Analysis of cluster k-means; Q4 Journal; IOP Conference Series: Earth and Environmental Science; 2022; 0 cited 
+7; Hermits with Duden, tipex and an Olivetti Studio 45; Q1 Journal; Revista Tradumatica; 2022; 0 cited 
+8; Translating is not (only) problem solving; Q1 Journal; Journal of Specialised Translation; 2022; 3 cited 
 9; Introduction: One More Step Forward—Cognitive Translation Studies at the Start of a New Decade; Q2 Journal; New Frontiers in Translation Studies; 2021; 1 cited 
-10; Cognitive Translation Studies: Models and methods at the cutting edge; no-Q Journal; Linguistica Antverpiensia, New Series – Themes in Translation Studies; 2020; 13 cited 
-11; Translation and cognitive science; no-Q Journal; The Routledge Handb. of Translation and Cognition; 2020; 4 cited 
-12; Socio-Economic profile of beef cattle farmers in kediri regency, east java province; Q3 Journal; International Journal of Innovation, Creativity and Change; 2019; 0 cited 
-13; The Contribution of Social Capital to the Income and Development of Beef Cattle Farmers; Q4 Journal; IOP Conference Series: Earth and Environmental Science; 2019; 1 cited 
+10; Spillover Effects in Task-Segment Switching: A Study of Translation Subtasks as Behavioral Categories Within the Task Segment Framework; Q2 Journal; New Frontiers in Translation Studies; 2021; 1 cited 
+11; Investigating usability in postediting neural machine translation: Evidence from translation trainees' self-perception and performance; Q1 Journal; Across Languages and Cultures; 2021; 8 cited 
+12; Translation and cognitive science; no-Q Journal; The Routledge Handb. of Translation and Cognition; 2020; 4 cited 
+13; Cognitive Translation Studies: Models and methods at the cutting edge; no-Q Journal; Linguistica Antverpiensia, New Series – Themes in Translation Studies; 2020; 13 cited 
 14; Translating in fits and starts: pause thresholds and roles in the research of translation processes; Q1 Journal; Perspectives: Studies in Translation Theory and Practice; 2019; 19 cited 
-15; Fascinatin’ rhythm – and pauses in translators’ cognitive processes; Q2 Journal; Hermes (Denmark); 2018; 12 cited 
-16; Meaning; no-Q Journal; The Routledge Handbook of Translation and Culture; 2018; 2 cited 
-17; Of minds and men-computers and translators; Q2 Journal; Poznan Studies in Contemporary Linguistics; 2016; 23 cited 
-18; Processes of what models?; no-Q Journal; Translation Spaces(Netherland); 2016; 11 cited 
-19; Reembedding translation process research; no-Q Journal; Benjamins Translation Library; 2016; 1 cited 
-20; "Ah jist likes, dinnae ken how ye do it." Translating the literary dialect of Trainspotting into Spanish; no-Q Journal; Spanish and Portuguese Across Time, Place, and Borders: Studies in Honour of Milton M. Azevedo; 2014; 0 cited 
-21; Teleworking and collaborative work environments in translation training; Q3 Journal; Babel; 2009; 27 cited 
-22; A Professional Approach to Translator Training (PATT); Q3 Journal; Meta; 2007; 31 cited 
-23; Student satisfaction with a web-based collaborative work platform; Q3 Journal; Perspectives: Studies in Translatology; 2007; 8 cited 
-24; Contra sísifo: Interdisciplinariedad y multiculturalidad; Q3 Journal; Perspectives: Studies in Translatology; 1999; 4 cited 
-25; Foreword and Proólogo; Q3 Journal; Perspectives: Studies in Translatology; 1999; 0 cited 
+15; Socio-Economic profile of beef cattle farmers in kediri regency, east java province; Q3 Journal; International Journal of Innovation, Creativity and Change; 2019; 0 cited 
+16; The Contribution of Social Capital to the Income and Development of Beef Cattle Farmers; Q4 Journal; IOP Conference Series: Earth and Environmental Science; 2019; 1 cited 
+17; Fascinatin’ rhythm – and pauses in translators’ cognitive processes; Q2 Journal; Hermes (Denmark); 2018; 12 cited 
+18; Meaning; no-Q Journal; The Routledge Handbook of Translation and Culture; 2018; 2 cited 
+19; Of minds and men-computers and translators; Q2 Journal; Poznan Studies in Contemporary Linguistics; 2016; 23 cited 
+20; Processes of what models?; no-Q Journal; Translation Spaces(Netherland); 2016; 11 cited 
+21; Reembedding translation process research; no-Q Journal; Benjamins Translation Library; 2016; 1 cited 
+22; "Ah jist likes, dinnae ken how ye do it." Translating the literary dialect of Trainspotting into Spanish; no-Q Journal; Spanish and Portuguese Across Time, Place, and Borders: Studies in Honour of Milton M. Azevedo; 2014; 0 cited 
+23; Teleworking and collaborative work environments in translation training; Q3 Journal; Babel; 2009; 27 cited 
+24; A Professional Approach to Translator Training (PATT); Q3 Journal; Meta; 2007; 31 cited 
+25; Student satisfaction with a web-based collaborative work platform; Q3 Journal; Perspectives: Studies in Translatology; 2007; 8 cited 
+26; Contra sísifo: Interdisciplinariedad y multiculturalidad; Q3 Journal; Perspectives: Studies in Translatology; 1999; 4 cited 
+27; Foreword and Proólogo; Q3 Journal; Perspectives: Studies in Translatology; 1999; 0 cited 
 Pendidikan Bahasa Inggris
 =============================
 1; Portraying teacher’s metacognitive knowledge to promote efl young learners’ critical thinking in indonesia; Q1 Journal; International Journal of Language Education; 2021; 4 cited 
